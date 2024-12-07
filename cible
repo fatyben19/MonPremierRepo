@@ -1,0 +1,3 @@
+# Code de la branche cible
+def afficher_message():
+    print("Message de la branche principale")
